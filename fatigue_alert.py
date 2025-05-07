@@ -109,7 +109,7 @@ def display_fatigue_alarm():
 
 
 if __name__ == "__main__":
-    alarm_interval_minutes = 20
+    alarm_interval_minutes = 2
     # Tkinter might not be installed by default.
     # On Ubuntu/Debian: sudo apt-get install python3-tk
     print(
